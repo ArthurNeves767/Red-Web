@@ -1,1 +1,2 @@
-# Simple_Email_python
+# Red Web
+A simple email/torrent messenger 
